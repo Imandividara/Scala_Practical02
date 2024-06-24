@@ -25,3 +25,7 @@ object variables{
 
 //Java is an object oriented programming language 
 //but Scala supports both object oriented and functional programming languages
+
+// Scala supports all functional programming concepts. 
+//Java 8 introduced some functional programming features but does not support all FP concepts. 
+

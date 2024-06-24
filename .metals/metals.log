@@ -20,3 +20,7 @@ INFO: Unsupported notification method: $/setTrace
 2024.06.24 11:07:55 INFO  compiling scala_practical02_f4dd477a3a (4 scala sources)
 2024.06.24 11:07:55 INFO  time: compiled Scala_Practical02_f4dd477a3a in 0.9s
 2024.06.24 11:08:01 INFO  time: indexed workspace in 6.07s
+2024.06.24 11:20:58 INFO  Shutting down server
+2024.06.24 11:20:58 INFO  shutting down Metals
+2024.06.24 11:20:58 INFO  Shut down connection with build server.
+2024.06.24 11:20:58 INFO  Exiting server
